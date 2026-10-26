@@ -44,7 +44,4 @@ Phone --Bluetooth--> ESP32 --> Motors
 - Add more sensors (left and right) for smarter steering.
 - Add an autonomous driving mode.
 
-## Author
 
-**Caroline Noshy Thabet**, Computer Science student at Assiut University.
-GitHub: [Carolin-Noshy](https://github.com/Carolin-Noshy)
